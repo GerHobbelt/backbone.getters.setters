@@ -1,0 +1,16 @@
+{
+  "name": "backbone.getters.setters",
+  "version": "1.0.0",
+  "main": "backbone.getters.setters.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1",
+    "underscore": "~1"
+  }
+}
